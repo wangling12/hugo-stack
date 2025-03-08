@@ -80,7 +80,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "utterances"
 
 [comments.disqusjs]
 shortname = ""
@@ -90,9 +90,9 @@ admin = ""
 adminLabel = ""
 
 [comments.utterances]
-repo = ""
+repo = "wangling12/hugo-stack"
 issueTerm = "pathname"
-label = ""
+label = "comment"
 
 [comments.remark42]
 host = ""
