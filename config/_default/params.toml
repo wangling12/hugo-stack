@@ -12,14 +12,17 @@ customText = ""
 published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
+[frontmatter]
+lastmod = [":git", ":fileModTime", "lastmod", "date", "publishDate"]
+
 [sidebar]
 emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+subtitle = "谁知道下次什么时候能想起这里"
 
 [sidebar.avatar]
 enabled = true
-local = true
-src = "img/avatar.png"
+local = false
+src = "https://avatars.githubusercontent.com/u/24770600?s=150&v=4"
 
 [article]
 headingAnchor = false

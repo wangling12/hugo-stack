@@ -1,7 +1,8 @@
 ---
-title: Example Category
-description: A description of this category
+title: 默认分类
+description: 不知道放哪的东西
 image:
+draft: true
 
 # Badge style
 style:

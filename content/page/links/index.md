@@ -1,9 +1,11 @@
 ---
 title: Links
+description: 我的github, 里面似乎也没什么特别的.
+draft: true
 links:
   - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
+    description: 我的github, 里面似乎也没什么特别的.
+    website: https://github.com/wangling12
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
     main: 
@@ -14,7 +16,7 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
+<!-- To use this feature, add `links` section to frontmatter.
 
 This page's frontmatter:
 
@@ -30,4 +32,4 @@ links:
     image: ts-logo-128.jpg
 ```
 
-`image` field accepts both local and external images.
+`image` field accepts both local and external images. -->
